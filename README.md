@@ -13,3 +13,6 @@
 <img width="" height="" src="./pic/21173051_5st_app_1.png"></img>
 <img width="" height="" src="./pic/21173051_5st_app_2.png"></img>
 <img width="" height="" src="./pic/21173051_5st_app_3.png"></img>
+
+#### 6주차과제
+<img width="400" height="300" src="./pic/21173051_6st_app.png"></img>
